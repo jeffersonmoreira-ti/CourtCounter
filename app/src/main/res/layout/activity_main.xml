@@ -16,7 +16,7 @@
             android:src="@drawable/nba"
             android:drawingCacheQuality="high"
             android:contentDescription="NBA logo"
-            android:scaleType="centerCrop"/>
+            android:scaleType="center"/>
     </LinearLayout>
 
     <LinearLayout
